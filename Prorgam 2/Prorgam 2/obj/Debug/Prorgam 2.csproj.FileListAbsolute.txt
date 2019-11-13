@@ -1,0 +1,10 @@
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\bin\Debug\Prorgam 2.exe.config
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\bin\Debug\Prorgam 2.exe
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\bin\Debug\Prorgam 2.pdb
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam 2.csprojAssemblyReference.cache
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam_2.Form1.resources
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam_2.Properties.Resources.resources
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam 2.csproj.GenerateResource.cache
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam 2.csproj.CoreCompileInputs.cache
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam 2.exe
+C:\Users\Tanner Lyon\Desktop\C#\Program 2\Prorgam 2\Prorgam 2\obj\Debug\Prorgam 2.pdb
